@@ -1,6 +1,6 @@
 {
   "name": "peaq-did-resolver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "_/src/resolver.js",
   "type": "module",
   "author": "ITN",
@@ -31,11 +31,11 @@
     "url": "git+ssh://git@github.com/itn-trust/peaq-did-resolver.git"
   },
   "dependencies": {
-    "@peaq-network/did-resolver": "1.0.3",
+    "@peaq-network/did-resolver": "1.0.4",
     "did-resolver": "4.1.0"
   },
   "devDependencies": {
-    "prettier": "3.3.3",
-    "typescript": "5.6.3"
+    "prettier": "3.5.3",
+    "typescript": "5.8.2"
   }
 }
